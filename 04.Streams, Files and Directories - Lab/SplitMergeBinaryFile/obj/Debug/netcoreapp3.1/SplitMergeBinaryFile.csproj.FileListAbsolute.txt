@@ -1,0 +1,14 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.runtimeconfig.dev.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.genruntimeconfig.cache

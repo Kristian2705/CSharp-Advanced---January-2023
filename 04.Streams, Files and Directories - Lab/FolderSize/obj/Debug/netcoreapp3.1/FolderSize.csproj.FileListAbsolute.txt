@@ -1,0 +1,28 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.dev.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\04.Streams, Files and Directories - Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\04.Streams, Files and Directories - Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\04.Streams, Files and Directories - Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\04.Streams, Files and Directories - Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.runtimeconfig.dev.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\04.Streams, Files and Directories - Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\04.Streams, Files and Directories - Lab\FolderSize\bin\Debug\netcoreapp3.1\FolderSize.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\04.Streams, Files and Directories - Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\04.Streams, Files and Directories - Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\04.Streams, Files and Directories - Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\04.Streams, Files and Directories - Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\04.Streams, Files and Directories - Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\04.Streams, Files and Directories - Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\04.Streams, Files and Directories - Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\04.Streams, Files and Directories - Lab\FolderSize\obj\Debug\netcoreapp3.1\FolderSize.genruntimeconfig.cache

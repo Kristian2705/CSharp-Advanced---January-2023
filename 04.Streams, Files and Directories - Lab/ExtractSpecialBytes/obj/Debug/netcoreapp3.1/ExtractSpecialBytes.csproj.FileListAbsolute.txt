@@ -1,0 +1,14 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.runtimeconfig.dev.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\ExtractSpecialBytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\ExtractSpecialBytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.genruntimeconfig.cache

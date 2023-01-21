@@ -1,0 +1,14 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\WordCount\bin\Debug\netcoreapp3.1\WordCount.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\WordCount\bin\Debug\netcoreapp3.1\WordCount.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.dev.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\WordCount\bin\Debug\netcoreapp3.1\WordCount.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\WordCount\bin\Debug\netcoreapp3.1\WordCount.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\WordCount\obj\Debug\netcoreapp3.1\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\WordCount\obj\Debug\netcoreapp3.1\WordCount.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\WordCount\obj\Debug\netcoreapp3.1\WordCount.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\WordCount\obj\Debug\netcoreapp3.1\WordCount.genruntimeconfig.cache

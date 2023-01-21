@@ -1,0 +1,14 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.dev.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.genruntimeconfig.cache
