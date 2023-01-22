@@ -1,0 +1,14 @@
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.exe
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.deps.json
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.json
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.dev.json
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.AssemblyReference.cache
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfo.cs
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.genruntimeconfig.cache

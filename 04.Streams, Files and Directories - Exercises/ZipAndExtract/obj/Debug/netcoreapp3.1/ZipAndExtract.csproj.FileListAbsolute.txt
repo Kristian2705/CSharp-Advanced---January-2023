@@ -1,0 +1,14 @@
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.exe
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.deps.json
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.json
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.dev.json
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.dll
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.pdb
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.csproj.AssemblyReference.cache
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfo.cs
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.dll
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.pdb
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.genruntimeconfig.cache

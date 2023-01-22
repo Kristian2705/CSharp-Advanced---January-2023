@@ -1,0 +1,14 @@
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache

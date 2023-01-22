@@ -1,0 +1,14 @@
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.exe
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.deps.json
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.json
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.AssemblyReference.cache
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Users\vorod\Downloads\Skeleton_3.1-Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.genruntimeconfig.cache
