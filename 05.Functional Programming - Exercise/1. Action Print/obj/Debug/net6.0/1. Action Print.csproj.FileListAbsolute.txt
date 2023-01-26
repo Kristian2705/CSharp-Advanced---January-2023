@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\bin\Debug\net6.0\1. Action Print.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\bin\Debug\net6.0\1. Action Print.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\bin\Debug\net6.0\1. Action Print.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\bin\Debug\net6.0\1. Action Print.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\bin\Debug\net6.0\1. Action Print.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\obj\Debug\net6.0\1. Action Print.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\obj\Debug\net6.0\1. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\obj\Debug\net6.0\1. Action Print.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\obj\Debug\net6.0\1. Action Print.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\obj\Debug\net6.0\1. Action Print.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\obj\Debug\net6.0\1. Action Print.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\obj\Debug\net6.0\refint\1. Action Print.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\obj\Debug\net6.0\1. Action Print.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\obj\Debug\net6.0\1. Action Print.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\05.Functional Programming - Exercise\1. Action Print\obj\Debug\net6.0\ref\1. Action Print.dll
