@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\bin\Debug\net6.0\3. Car Constructors.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\bin\Debug\net6.0\3. Car Constructors.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\bin\Debug\net6.0\3. Car Constructors.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\bin\Debug\net6.0\3. Car Constructors.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\bin\Debug\net6.0\3. Car Constructors.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\obj\Debug\net6.0\refint\3. Car Constructors.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\obj\Debug\net6.0\3. Car Constructors.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\3. Car Constructors\obj\Debug\net6.0\ref\3. Car Constructors.dll

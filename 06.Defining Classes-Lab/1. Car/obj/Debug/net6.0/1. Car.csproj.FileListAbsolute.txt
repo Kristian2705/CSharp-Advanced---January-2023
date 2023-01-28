@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\bin\Debug\net6.0\1. Car.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\bin\Debug\net6.0\1. Car.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\bin\Debug\net6.0\1. Car.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\bin\Debug\net6.0\1. Car.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\bin\Debug\net6.0\1. Car.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\obj\Debug\net6.0\1. Car.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\obj\Debug\net6.0\1. Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\obj\Debug\net6.0\1. Car.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\obj\Debug\net6.0\1. Car.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\obj\Debug\net6.0\1. Car.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\obj\Debug\net6.0\1. Car.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\obj\Debug\net6.0\refint\1. Car.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\obj\Debug\net6.0\1. Car.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\obj\Debug\net6.0\1. Car.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.Defining Classes-Lab\1. Car\obj\Debug\net6.0\ref\1. Car.dll
