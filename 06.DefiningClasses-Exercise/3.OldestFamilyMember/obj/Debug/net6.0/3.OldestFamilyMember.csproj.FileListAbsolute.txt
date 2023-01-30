@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\bin\Debug\net6.0\3.OldestFamilyMember.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\bin\Debug\net6.0\3.OldestFamilyMember.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\bin\Debug\net6.0\3.OldestFamilyMember.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\bin\Debug\net6.0\3.OldestFamilyMember.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\bin\Debug\net6.0\3.OldestFamilyMember.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\obj\Debug\net6.0\3.OldestFamilyMember.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\obj\Debug\net6.0\3.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\obj\Debug\net6.0\3.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\obj\Debug\net6.0\3.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\obj\Debug\net6.0\3.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\obj\Debug\net6.0\3.OldestFamilyMember.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\obj\Debug\net6.0\refint\3.OldestFamilyMember.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\obj\Debug\net6.0\3.OldestFamilyMember.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\obj\Debug\net6.0\3.OldestFamilyMember.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\3.OldestFamilyMember\obj\Debug\net6.0\ref\3.OldestFamilyMember.dll

@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\bin\Debug\net6.0\2.CreatingConstructors.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\bin\Debug\net6.0\2.CreatingConstructors.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\bin\Debug\net6.0\2.CreatingConstructors.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\bin\Debug\net6.0\2.CreatingConstructors.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\bin\Debug\net6.0\2.CreatingConstructors.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\obj\Debug\net6.0\2.CreatingConstructors.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\obj\Debug\net6.0\2.CreatingConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\obj\Debug\net6.0\2.CreatingConstructors.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\obj\Debug\net6.0\2.CreatingConstructors.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\obj\Debug\net6.0\2.CreatingConstructors.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\obj\Debug\net6.0\2.CreatingConstructors.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\obj\Debug\net6.0\refint\2.CreatingConstructors.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\obj\Debug\net6.0\2.CreatingConstructors.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\obj\Debug\net6.0\2.CreatingConstructors.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\2.CreatingConstructors\obj\Debug\net6.0\ref\2.CreatingConstructors.dll

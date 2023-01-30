@@ -1,0 +1,30 @@
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\bin\Debug\net6.0\SoftUniParking.exe
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\bin\Debug\net6.0\SoftUniParking.deps.json
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\bin\Debug\net6.0\SoftUniParking.runtimeconfig.json
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\bin\Debug\net6.0\SoftUniParking.dll
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\bin\Debug\net6.0\SoftUniParking.pdb
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.AssemblyInfo.cs
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.dll
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\refint\SoftUniParking.dll
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.pdb
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\SoftUniParking.genruntimeconfig.cache
+C:\Users\vorod\Downloads\SoftUniParking_Skeleton_6.0\obj\Debug\net6.0\ref\SoftUniParking.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\bin\Debug\net6.0\SoftUniParking.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\refint\SoftUniParking.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\SoftUniParking.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\10.SoftUniParking\obj\Debug\net6.0\ref\SoftUniParking.dll

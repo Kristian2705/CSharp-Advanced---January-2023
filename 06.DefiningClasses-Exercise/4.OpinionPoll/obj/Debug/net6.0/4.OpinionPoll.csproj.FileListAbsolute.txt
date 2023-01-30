@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\bin\Debug\net6.0\4.OpinionPoll.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\bin\Debug\net6.0\4.OpinionPoll.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\bin\Debug\net6.0\4.OpinionPoll.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\bin\Debug\net6.0\4.OpinionPoll.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\bin\Debug\net6.0\4.OpinionPoll.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\obj\Debug\net6.0\refint\4.OpinionPoll.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\obj\Debug\net6.0\4.OpinionPoll.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\4.OpinionPoll\obj\Debug\net6.0\ref\4.OpinionPoll.dll

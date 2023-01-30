@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\bin\Debug\net6.0\1.DefineAClassPerson.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\bin\Debug\net6.0\1.DefineAClassPerson.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\bin\Debug\net6.0\1.DefineAClassPerson.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\bin\Debug\net6.0\1.DefineAClassPerson.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\bin\Debug\net6.0\1.DefineAClassPerson.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\obj\Debug\net6.0\1.DefineAClassPerson.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\obj\Debug\net6.0\1.DefineAClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\obj\Debug\net6.0\1.DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\obj\Debug\net6.0\1.DefineAClassPerson.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\obj\Debug\net6.0\1.DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\obj\Debug\net6.0\1.DefineAClassPerson.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\obj\Debug\net6.0\refint\1.DefineAClassPerson.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\obj\Debug\net6.0\1.DefineAClassPerson.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\obj\Debug\net6.0\1.DefineAClassPerson.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\06.DefiningClasses-Exercise\1.DefineAClassPerson\obj\Debug\net6.0\ref\1.DefineAClassPerson.dll
