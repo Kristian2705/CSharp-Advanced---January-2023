@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\bin\Debug\net6.0\ImplementingLinkedList.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\bin\Debug\net6.0\ImplementingLinkedList.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\bin\Debug\net6.0\ImplementingLinkedList.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\bin\Debug\net6.0\ImplementingLinkedList.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\bin\Debug\net6.0\ImplementingLinkedList.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\obj\Debug\net6.0\refint\ImplementingLinkedList.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\obj\Debug\net6.0\ImplementingLinkedList.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\07.Workshop-LinkedList\ImplementingLinkedList\obj\Debug\net6.0\ref\ImplementingLinkedList.dll
