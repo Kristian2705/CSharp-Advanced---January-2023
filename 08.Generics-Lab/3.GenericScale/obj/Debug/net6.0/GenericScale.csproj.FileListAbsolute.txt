@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\bin\Debug\net6.0\GenericScale.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\bin\Debug\net6.0\GenericScale.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\bin\Debug\net6.0\GenericScale.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\bin\Debug\net6.0\GenericScale.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\bin\Debug\net6.0\GenericScale.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\obj\Debug\net6.0\GenericScale.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\obj\Debug\net6.0\GenericScale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\obj\Debug\net6.0\GenericScale.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\obj\Debug\net6.0\GenericScale.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\obj\Debug\net6.0\GenericScale.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\obj\Debug\net6.0\GenericScale.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\obj\Debug\net6.0\refint\GenericScale.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\obj\Debug\net6.0\GenericScale.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\obj\Debug\net6.0\GenericScale.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Lab\3.GenericScale\obj\Debug\net6.0\ref\GenericScale.dll
