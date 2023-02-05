@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\obj\Debug\net6.0\refint\CustomLinkedList.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\08.Generics-Exercise\9.CustomLinkedList\obj\Debug\net6.0\ref\CustomLinkedList.dll
