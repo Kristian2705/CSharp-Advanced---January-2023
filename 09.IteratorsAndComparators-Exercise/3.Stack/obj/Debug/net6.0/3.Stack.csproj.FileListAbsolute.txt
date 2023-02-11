@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\bin\Debug\net6.0\3.Stack.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\bin\Debug\net6.0\3.Stack.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\bin\Debug\net6.0\3.Stack.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\bin\Debug\net6.0\3.Stack.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\bin\Debug\net6.0\3.Stack.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\obj\Debug\net6.0\3.Stack.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\obj\Debug\net6.0\3.Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\obj\Debug\net6.0\3.Stack.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\obj\Debug\net6.0\3.Stack.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\obj\Debug\net6.0\3.Stack.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\obj\Debug\net6.0\3.Stack.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\obj\Debug\net6.0\refint\3.Stack.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\obj\Debug\net6.0\3.Stack.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\obj\Debug\net6.0\3.Stack.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\3.Stack\obj\Debug\net6.0\ref\3.Stack.dll

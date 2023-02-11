@@ -18,6 +18,13 @@
 
             list.ForEach(x => Console.WriteLine(x));
 
+            Console.WriteLine();
+
+            foreach(var x in list)
+            {
+                Console.WriteLine(x);
+            }
+
             Console.WriteLine(string.Join(" ", list.ToArray()));
         }
     }

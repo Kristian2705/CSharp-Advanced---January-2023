@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\bin\Debug\net6.0\7.CustomComparator.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\bin\Debug\net6.0\7.CustomComparator.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\bin\Debug\net6.0\7.CustomComparator.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\bin\Debug\net6.0\7.CustomComparator.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\bin\Debug\net6.0\7.CustomComparator.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\obj\Debug\net6.0\7.CustomComparator.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\obj\Debug\net6.0\7.CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\obj\Debug\net6.0\7.CustomComparator.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\obj\Debug\net6.0\7.CustomComparator.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\obj\Debug\net6.0\7.CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\obj\Debug\net6.0\7.CustomComparator.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\obj\Debug\net6.0\refint\7.CustomComparator.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\obj\Debug\net6.0\7.CustomComparator.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\obj\Debug\net6.0\7.CustomComparator.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\7.CustomComparator\obj\Debug\net6.0\ref\7.CustomComparator.dll

@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\bin\Debug\net6.0\4.Froggy.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\bin\Debug\net6.0\4.Froggy.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\bin\Debug\net6.0\4.Froggy.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\bin\Debug\net6.0\4.Froggy.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\bin\Debug\net6.0\4.Froggy.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\obj\Debug\net6.0\4.Froggy.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\obj\Debug\net6.0\4.Froggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\obj\Debug\net6.0\4.Froggy.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\obj\Debug\net6.0\4.Froggy.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\obj\Debug\net6.0\4.Froggy.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\obj\Debug\net6.0\4.Froggy.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\obj\Debug\net6.0\refint\4.Froggy.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\obj\Debug\net6.0\4.Froggy.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\obj\Debug\net6.0\4.Froggy.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\09.IteratorsAndComparators-Exercise\4.Froggy\obj\Debug\net6.0\ref\4.Froggy.dll
