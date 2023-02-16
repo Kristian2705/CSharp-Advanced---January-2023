@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\bin\Debug\net6.0\5.MergeSort.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\bin\Debug\net6.0\5.MergeSort.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\bin\Debug\net6.0\5.MergeSort.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\bin\Debug\net6.0\5.MergeSort.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\bin\Debug\net6.0\5.MergeSort.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\obj\Debug\net6.0\5.MergeSort.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\obj\Debug\net6.0\5.MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\obj\Debug\net6.0\5.MergeSort.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\obj\Debug\net6.0\5.MergeSort.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\obj\Debug\net6.0\5.MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\obj\Debug\net6.0\5.MergeSort.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\obj\Debug\net6.0\refint\5.MergeSort.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\obj\Debug\net6.0\5.MergeSort.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\obj\Debug\net6.0\5.MergeSort.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\5.MergeSort\obj\Debug\net6.0\ref\5.MergeSort.dll

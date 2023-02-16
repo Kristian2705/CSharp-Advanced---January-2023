@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\bin\Debug\net6.0\6.QuickSort.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\bin\Debug\net6.0\6.QuickSort.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\bin\Debug\net6.0\6.QuickSort.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\bin\Debug\net6.0\6.QuickSort.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\bin\Debug\net6.0\6.QuickSort.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\obj\Debug\net6.0\6.QuickSort.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\obj\Debug\net6.0\6.QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\obj\Debug\net6.0\6.QuickSort.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\obj\Debug\net6.0\6.QuickSort.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\obj\Debug\net6.0\6.QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\obj\Debug\net6.0\6.QuickSort.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\obj\Debug\net6.0\refint\6.QuickSort.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\obj\Debug\net6.0\6.QuickSort.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\obj\Debug\net6.0\6.QuickSort.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\AlgorithmsIntroduction\6.QuickSort\obj\Debug\net6.0\ref\6.QuickSort.dll
