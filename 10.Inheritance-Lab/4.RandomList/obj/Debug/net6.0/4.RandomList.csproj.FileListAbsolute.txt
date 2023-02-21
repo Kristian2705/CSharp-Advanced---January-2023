@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\bin\Debug\net6.0\4.RandomList.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\bin\Debug\net6.0\4.RandomList.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\bin\Debug\net6.0\4.RandomList.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\bin\Debug\net6.0\4.RandomList.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\bin\Debug\net6.0\4.RandomList.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\obj\Debug\net6.0\refint\4.RandomList.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Lab\4.RandomList\obj\Debug\net6.0\ref\4.RandomList.dll
