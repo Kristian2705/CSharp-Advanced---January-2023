@@ -12,5 +12,20 @@ namespace Person
         {
 
         }
+
+        public override int Age
+        {
+            get
+            {
+                return base.Age;
+            }
+            set
+            {
+                if(value <= 15)
+                {
+                    base.Age = value;
+                }
+            }
+        }
     }
 }

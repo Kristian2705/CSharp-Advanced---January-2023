@@ -18,7 +18,17 @@ namespace Person
 		}
 
         public string Name{ get { return name; } set { name = value; } }
-		public int Age{ get { return age; } set { age = value; } }
+		public virtual int Age
+        {
+            get { return age; }
+            set
+            {
+                if (value > 0)
+                {
+                    age = value;
+                }
+            }
+        }
 
         public override string ToString()
         {

@@ -13,3 +13,18 @@ C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.
 C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.pdb
 C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
 C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Person\obj\Debug\net6.0\ref\Person.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\bin\Debug\net6.0\Person.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\bin\Debug\net6.0\Person.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\bin\Debug\net6.0\Person.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\bin\Debug\net6.0\Person.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\obj\Debug\net6.0\Person.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\obj\Debug\net6.0\Person.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\obj\Debug\net6.0\refint\Person.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\obj\Debug\net6.0\Person.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\10.Inheritance-Exercise\Person\obj\Debug\net6.0\ref\Person.dll

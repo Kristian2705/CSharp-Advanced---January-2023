@@ -9,8 +9,16 @@ namespace Person
             string name = Console.ReadLine();
             int age = int.Parse(Console.ReadLine());
 
-            Child child = new Child(name, age);
-            Console.WriteLine(child);
+            if(age > 15)
+            {
+                Person person = new(name, age);
+                Console.WriteLine(person);
+            }
+            else
+            {
+                Child child = new(name, age);
+                Console.WriteLine(child);
+            }
         }
     }
 }
