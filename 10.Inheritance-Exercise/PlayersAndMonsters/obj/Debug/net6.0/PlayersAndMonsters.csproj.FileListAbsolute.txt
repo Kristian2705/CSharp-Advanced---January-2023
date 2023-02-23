@@ -1,0 +1,15 @@
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.exe
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.deps.json
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.runtimeconfig.json
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.dll
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.pdb
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.AssemblyReference.cache
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.dll
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\refint\PlayersAndMonsters.dll
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.pdb
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.genruntimeconfig.cache
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\PlayersAndMonsters\obj\Debug\net6.0\ref\PlayersAndMonsters.dll

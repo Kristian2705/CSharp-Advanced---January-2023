@@ -1,0 +1,15 @@
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.exe
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.deps.json
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.runtimeconfig.json
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.dll
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.pdb
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.AssemblyReference.cache
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfo.cs
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.dll
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\refint\NeedForSpeed.dll
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.pdb
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.genruntimeconfig.cache
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed.dll

@@ -1,0 +1,15 @@
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\bin\Debug\net6.0\Restaurant.exe
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\bin\Debug\net6.0\Restaurant.deps.json
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\bin\Debug\net6.0\Restaurant.runtimeconfig.json
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\bin\Debug\net6.0\Restaurant.dll
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\bin\Debug\net6.0\Restaurant.pdb
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\obj\Debug\net6.0\Restaurant.csproj.AssemblyReference.cache
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\obj\Debug\net6.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfoInputs.cache
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfo.cs
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\obj\Debug\net6.0\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\obj\Debug\net6.0\Restaurant.dll
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\obj\Debug\net6.0\refint\Restaurant.dll
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\obj\Debug\net6.0\Restaurant.pdb
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\obj\Debug\net6.0\Restaurant.genruntimeconfig.cache
+C:\Users\vorod\Downloads\InheritanceExercise_Skeleton_6.0\Restaurant\obj\Debug\net6.0\ref\Restaurant.dll
