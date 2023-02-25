@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\bin\Debug\net6.0\2.SalaryIncrease.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\bin\Debug\net6.0\2.SalaryIncrease.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\bin\Debug\net6.0\2.SalaryIncrease.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\bin\Debug\net6.0\2.SalaryIncrease.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\bin\Debug\net6.0\2.SalaryIncrease.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\obj\Debug\net6.0\2.SalaryIncrease.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\obj\Debug\net6.0\2.SalaryIncrease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\obj\Debug\net6.0\2.SalaryIncrease.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\obj\Debug\net6.0\2.SalaryIncrease.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\obj\Debug\net6.0\2.SalaryIncrease.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\obj\Debug\net6.0\2.SalaryIncrease.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\obj\Debug\net6.0\refint\2.SalaryIncrease.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\obj\Debug\net6.0\2.SalaryIncrease.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\obj\Debug\net6.0\2.SalaryIncrease.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\2.SalaryIncrease\obj\Debug\net6.0\ref\2.SalaryIncrease.dll

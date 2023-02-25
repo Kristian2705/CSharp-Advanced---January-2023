@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\bin\Debug\net6.0\3.ValidationOfData.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\bin\Debug\net6.0\3.ValidationOfData.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\bin\Debug\net6.0\3.ValidationOfData.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\bin\Debug\net6.0\3.ValidationOfData.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\bin\Debug\net6.0\3.ValidationOfData.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\obj\Debug\net6.0\3.ValidationOfData.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\obj\Debug\net6.0\3.ValidationOfData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\obj\Debug\net6.0\3.ValidationOfData.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\obj\Debug\net6.0\3.ValidationOfData.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\obj\Debug\net6.0\3.ValidationOfData.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\obj\Debug\net6.0\3.ValidationOfData.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\obj\Debug\net6.0\refint\3.ValidationOfData.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\obj\Debug\net6.0\3.ValidationOfData.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\obj\Debug\net6.0\3.ValidationOfData.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Lab\3.ValidationOfData\obj\Debug\net6.0\ref\3.ValidationOfData.dll
