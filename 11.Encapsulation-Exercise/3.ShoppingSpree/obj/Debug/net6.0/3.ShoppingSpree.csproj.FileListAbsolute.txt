@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\bin\Debug\net6.0\3.ShoppingSpree.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\bin\Debug\net6.0\3.ShoppingSpree.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\bin\Debug\net6.0\3.ShoppingSpree.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\bin\Debug\net6.0\3.ShoppingSpree.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\bin\Debug\net6.0\3.ShoppingSpree.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\obj\Debug\net6.0\3.ShoppingSpree.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\obj\Debug\net6.0\3.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\obj\Debug\net6.0\3.ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\obj\Debug\net6.0\3.ShoppingSpree.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\obj\Debug\net6.0\3.ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\obj\Debug\net6.0\3.ShoppingSpree.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\obj\Debug\net6.0\refint\3.ShoppingSpree.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\obj\Debug\net6.0\3.ShoppingSpree.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\obj\Debug\net6.0\3.ShoppingSpree.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\11.Encapsulation-Exercise\3.ShoppingSpree\obj\Debug\net6.0\ref\3.ShoppingSpree.dll
