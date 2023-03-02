@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\bin\Debug\net6.0\9.ExplicitInterface.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\bin\Debug\net6.0\9.ExplicitInterface.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\bin\Debug\net6.0\9.ExplicitInterface.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\bin\Debug\net6.0\9.ExplicitInterface.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\bin\Debug\net6.0\9.ExplicitInterface.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\obj\Debug\net6.0\9.ExplicitInterface.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\obj\Debug\net6.0\9.ExplicitInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\obj\Debug\net6.0\9.ExplicitInterface.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\obj\Debug\net6.0\9.ExplicitInterface.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\obj\Debug\net6.0\9.ExplicitInterface.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\obj\Debug\net6.0\9.ExplicitInterface.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\obj\Debug\net6.0\refint\9.ExplicitInterface.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\obj\Debug\net6.0\9.ExplicitInterface.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\obj\Debug\net6.0\9.ExplicitInterface.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\9.ExplicitInterface\obj\Debug\net6.0\ref\9.ExplicitInterface.dll

@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\bin\Debug\net6.0\3.Telephony.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\bin\Debug\net6.0\3.Telephony.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\bin\Debug\net6.0\3.Telephony.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\bin\Debug\net6.0\3.Telephony.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\bin\Debug\net6.0\3.Telephony.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\obj\Debug\net6.0\3.Telephony.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\obj\Debug\net6.0\3.Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\obj\Debug\net6.0\3.Telephony.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\obj\Debug\net6.0\3.Telephony.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\obj\Debug\net6.0\3.Telephony.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\obj\Debug\net6.0\3.Telephony.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\obj\Debug\net6.0\refint\3.Telephony.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\obj\Debug\net6.0\3.Telephony.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\obj\Debug\net6.0\3.Telephony.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\3.Telephony\obj\Debug\net6.0\ref\3.Telephony.dll

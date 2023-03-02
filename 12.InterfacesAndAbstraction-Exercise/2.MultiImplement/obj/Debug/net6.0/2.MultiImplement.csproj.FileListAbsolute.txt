@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\bin\Debug\net6.0\2.MultiImplement.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\bin\Debug\net6.0\2.MultiImplement.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\bin\Debug\net6.0\2.MultiImplement.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\bin\Debug\net6.0\2.MultiImplement.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\bin\Debug\net6.0\2.MultiImplement.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\obj\Debug\net6.0\2.MultiImplement.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\obj\Debug\net6.0\2.MultiImplement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\obj\Debug\net6.0\2.MultiImplement.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\obj\Debug\net6.0\2.MultiImplement.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\obj\Debug\net6.0\2.MultiImplement.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\obj\Debug\net6.0\2.MultiImplement.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\obj\Debug\net6.0\refint\2.MultiImplement.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\obj\Debug\net6.0\2.MultiImplement.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\obj\Debug\net6.0\2.MultiImplement.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\12.InterfacesAndAbstraction-Exercise\2.MultiImplement\obj\Debug\net6.0\ref\2.MultiImplement.dll
