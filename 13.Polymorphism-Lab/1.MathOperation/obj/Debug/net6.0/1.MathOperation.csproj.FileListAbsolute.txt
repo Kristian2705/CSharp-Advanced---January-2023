@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\bin\Debug\net6.0\1.MathOperation.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\bin\Debug\net6.0\1.MathOperation.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\bin\Debug\net6.0\1.MathOperation.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\bin\Debug\net6.0\1.MathOperation.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\bin\Debug\net6.0\1.MathOperation.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\obj\Debug\net6.0\1.MathOperation.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\obj\Debug\net6.0\1.MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\obj\Debug\net6.0\1.MathOperation.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\obj\Debug\net6.0\1.MathOperation.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\obj\Debug\net6.0\1.MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\obj\Debug\net6.0\1.MathOperation.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\obj\Debug\net6.0\refint\1.MathOperation.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\obj\Debug\net6.0\1.MathOperation.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\obj\Debug\net6.0\1.MathOperation.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\13.Polymorphism-Lab\1.MathOperation\obj\Debug\net6.0\ref\1.MathOperation.dll
