@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\bin\Debug\net6.0\2.EnterNumbers.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\bin\Debug\net6.0\2.EnterNumbers.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\bin\Debug\net6.0\2.EnterNumbers.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\bin\Debug\net6.0\2.EnterNumbers.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\bin\Debug\net6.0\2.EnterNumbers.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\obj\Debug\net6.0\2.EnterNumbers.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\obj\Debug\net6.0\2.EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\obj\Debug\net6.0\2.EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\obj\Debug\net6.0\2.EnterNumbers.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\obj\Debug\net6.0\2.EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\obj\Debug\net6.0\2.EnterNumbers.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\obj\Debug\net6.0\refint\2.EnterNumbers.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\obj\Debug\net6.0\2.EnterNumbers.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\obj\Debug\net6.0\2.EnterNumbers.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\2.EnterNumbers\obj\Debug\net6.0\ref\2.EnterNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\bin\Debug\net6.0\4.SumOfIntegers.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\bin\Debug\net6.0\4.SumOfIntegers.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\bin\Debug\net6.0\4.SumOfIntegers.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\bin\Debug\net6.0\4.SumOfIntegers.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\bin\Debug\net6.0\4.SumOfIntegers.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\obj\Debug\net6.0\4.SumOfIntegers.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\obj\Debug\net6.0\4.SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\obj\Debug\net6.0\4.SumOfIntegers.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\obj\Debug\net6.0\4.SumOfIntegers.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\obj\Debug\net6.0\4.SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\obj\Debug\net6.0\4.SumOfIntegers.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\obj\Debug\net6.0\refint\4.SumOfIntegers.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\obj\Debug\net6.0\4.SumOfIntegers.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\obj\Debug\net6.0\4.SumOfIntegers.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\14.ExceptionHandling\4.SumOfIntegers\obj\Debug\net6.0\ref\4.SumOfIntegers.dll
