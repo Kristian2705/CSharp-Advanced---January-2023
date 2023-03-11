@@ -1,0 +1,15 @@
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.exe
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.deps.json
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.runtimeconfig.json
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.dll
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\bin\Debug\net6.0\P02.Graphic_Editor.pdb
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.csproj.AssemblyReference.cache
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.AssemblyInfoInputs.cache
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.AssemblyInfo.cs
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.dll
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\obj\Debug\net6.0\refint\P02.Graphic_Editor.dll
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.pdb
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\obj\Debug\net6.0\P02.Graphic_Editor.genruntimeconfig.cache
+C:\Users\vorod\Downloads\07. CSharp-OOP-SOLID-Lab-Skeleton_6.0\P02.Graphic_Editor\obj\Debug\net6.0\ref\P02.Graphic_Editor.dll
