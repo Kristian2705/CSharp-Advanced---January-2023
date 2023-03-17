@@ -1,0 +1,30 @@
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.AssemblyReference.cache
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll

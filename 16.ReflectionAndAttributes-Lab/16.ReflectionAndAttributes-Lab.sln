@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.Stealer", "1.Stealer\1.Stealer.csproj", "{3875C012-EE79-4F6B-B961-0D0D56161CBB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeTracker", "6.CodeTracker\CodeTracker.csproj", "{0E4AB867-0B56-464A-AB20-CB36C4A9B5A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.CodeTracker", "6.CodeTracker\6.CodeTracker.csproj", "{0E4AB867-0B56-464A-AB20-CB36C4A9B5A2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.CreateAttribute", "5.CreateAttribute\5.CreateAttribute.csproj", "{D9B0B4FF-BCF6-414F-912A-AA9C2568E284}"
 EndProject

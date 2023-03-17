@@ -1,0 +1,30 @@
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.exe
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.deps.json
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.runtimeconfig.json
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.dll
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.pdb
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.AssemblyReference.cache
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfo.cs
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.dll
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\obj\Debug\net6.0\refint\ValidationAttributes.dll
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.pdb
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.genruntimeconfig.cache
+C:\Users\vorod\Downloads\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\ValidationAttributes\obj\Debug\net6.0\ref\ValidationAttributes.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\refint\ValidationAttributes.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\16.ReflectionAndAttributes-Exercise\ValidationAttributes\obj\Debug\net6.0\ref\ValidationAttributes.dll
