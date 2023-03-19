@@ -1,0 +1,30 @@
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\bin\Debug\net6.0\Collections.exe
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\bin\Debug\net6.0\Collections.deps.json
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\bin\Debug\net6.0\Collections.runtimeconfig.json
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\bin\Debug\net6.0\Collections.dll
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\bin\Debug\net6.0\Collections.pdb
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.csproj.AssemblyReference.cache
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.AssemblyInfoInputs.cache
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.AssemblyInfo.cs
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.dll
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\refint\Collections.dll
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.pdb
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.genruntimeconfig.cache
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\ref\Collections.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\bin\Debug\net6.0\Collections.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\bin\Debug\net6.0\Collections.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\bin\Debug\net6.0\Collections.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\bin\Debug\net6.0\Collections.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\bin\Debug\net6.0\Collections.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\refint\Collections.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\Collections.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-MoreExercise\09. CSharp-OOP-Unit-Testing-More-Exercise-Skeleton_6.0\obj\Debug\net6.0\ref\Collections.dll
