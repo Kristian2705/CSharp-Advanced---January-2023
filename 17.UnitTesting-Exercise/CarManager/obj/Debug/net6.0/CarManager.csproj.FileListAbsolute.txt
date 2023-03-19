@@ -1,0 +1,24 @@
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\CarManager\bin\Debug\net6.0\CarManager.deps.json
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\CarManager\bin\Debug\net6.0\CarManager.dll
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\CarManager\bin\Debug\net6.0\CarManager.pdb
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\CarManager\obj\Debug\net6.0\CarManager.csproj.AssemblyReference.cache
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\CarManager\obj\Debug\net6.0\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfoInputs.cache
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfo.cs
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\CarManager\obj\Debug\net6.0\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\CarManager\obj\Debug\net6.0\CarManager.dll
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\CarManager\obj\Debug\net6.0\refint\CarManager.dll
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\CarManager\obj\Debug\net6.0\CarManager.pdb
+C:\Users\vorod\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton_6.0\CarManager\obj\Debug\net6.0\ref\CarManager.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\refint\CarManager.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\17.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\ref\CarManager.dll
