@@ -1,0 +1,14 @@
+C:\Users\vorod\Downloads\Skeleton (1)\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+C:\Users\vorod\Downloads\Skeleton (1)\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+C:\Users\vorod\Downloads\Skeleton (1)\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+C:\Users\vorod\Downloads\Skeleton (1)\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+C:\Users\vorod\Downloads\Skeleton (1)\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\vorod\Downloads\Skeleton (1)\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\vorod\Downloads\Skeleton (1)\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.AssemblyReference.cache
+C:\Users\vorod\Downloads\Skeleton (1)\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\Downloads\Skeleton (1)\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\vorod\Downloads\Skeleton (1)\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+C:\Users\vorod\Downloads\Skeleton (1)\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\vorod\Downloads\Skeleton (1)\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\vorod\Downloads\Skeleton (1)\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\vorod\Downloads\Skeleton (1)\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache
