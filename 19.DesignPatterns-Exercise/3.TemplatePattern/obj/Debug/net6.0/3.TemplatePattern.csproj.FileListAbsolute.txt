@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\bin\Debug\net6.0\3.TemplatePattern.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\bin\Debug\net6.0\3.TemplatePattern.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\bin\Debug\net6.0\3.TemplatePattern.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\bin\Debug\net6.0\3.TemplatePattern.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\bin\Debug\net6.0\3.TemplatePattern.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\obj\Debug\net6.0\3.TemplatePattern.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\obj\Debug\net6.0\3.TemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\obj\Debug\net6.0\3.TemplatePattern.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\obj\Debug\net6.0\3.TemplatePattern.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\obj\Debug\net6.0\3.TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\obj\Debug\net6.0\3.TemplatePattern.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\obj\Debug\net6.0\refint\3.TemplatePattern.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\obj\Debug\net6.0\3.TemplatePattern.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\obj\Debug\net6.0\3.TemplatePattern.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\3.TemplatePattern\obj\Debug\net6.0\ref\3.TemplatePattern.dll

@@ -1,0 +1,15 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\bin\Debug\net6.0\2.Composite.exe
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\bin\Debug\net6.0\2.Composite.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\bin\Debug\net6.0\2.Composite.runtimeconfig.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\bin\Debug\net6.0\2.Composite.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\bin\Debug\net6.0\2.Composite.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\obj\Debug\net6.0\2.Composite.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\obj\Debug\net6.0\2.Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\obj\Debug\net6.0\2.Composite.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\obj\Debug\net6.0\2.Composite.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\obj\Debug\net6.0\2.Composite.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\obj\Debug\net6.0\2.Composite.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\obj\Debug\net6.0\refint\2.Composite.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\obj\Debug\net6.0\2.Composite.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\obj\Debug\net6.0\2.Composite.genruntimeconfig.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\19.DesignPatterns-Exercise\2.Composite\obj\Debug\net6.0\ref\2.Composite.dll
