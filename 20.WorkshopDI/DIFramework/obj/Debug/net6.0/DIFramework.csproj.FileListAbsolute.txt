@@ -1,0 +1,12 @@
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\20.WorkshopDI\DIFramework\bin\Debug\net6.0\DIFramework.deps.json
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\20.WorkshopDI\DIFramework\bin\Debug\net6.0\DIFramework.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\20.WorkshopDI\DIFramework\bin\Debug\net6.0\DIFramework.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\20.WorkshopDI\DIFramework\obj\Debug\net6.0\DIFramework.csproj.AssemblyReference.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\20.WorkshopDI\DIFramework\obj\Debug\net6.0\DIFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\20.WorkshopDI\DIFramework\obj\Debug\net6.0\DIFramework.AssemblyInfoInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\20.WorkshopDI\DIFramework\obj\Debug\net6.0\DIFramework.AssemblyInfo.cs
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\20.WorkshopDI\DIFramework\obj\Debug\net6.0\DIFramework.csproj.CoreCompileInputs.cache
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\20.WorkshopDI\DIFramework\obj\Debug\net6.0\DIFramework.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\20.WorkshopDI\DIFramework\obj\Debug\net6.0\refint\DIFramework.dll
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\20.WorkshopDI\DIFramework\obj\Debug\net6.0\DIFramework.pdb
+C:\Users\vorod\OneDrive\Documents\C# Advanced - January 2023\C--Advanced---January-2023\20.WorkshopDI\DIFramework\obj\Debug\net6.0\ref\DIFramework.dll
